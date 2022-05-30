@@ -9,6 +9,8 @@ Trained three Algorithms (with offset) :
 
 (Check *project1.py* to find the implimentations)
 
+Conducted Hyperparameter tuning for all designed algorithms (see *main.py*) and reached an accuracy of 0.808 using the Pegasos Algorithm.
+
 Our training set consists of reviews written by Amazon customers for various food products. The reviews, originally given on a 5 point scale, have been adjusted to a +1 or -1 scale, representing a positive or negative review, respectively.
 
 ###### Starter code and data courtesy of MIT.
